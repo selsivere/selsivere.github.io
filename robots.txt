@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://selsivere.github.io/sitemap
+Sitemap: https://selsivere.github.io/app/sitemap
+Sitemap: https://selsivere.github.io/assets/sitemap
+Sitemap: https://selsivere.github.io/css/sitemap
+Sitemap: https://selsivere.github.io/includes/sitemap
+Sitemap: https://selsivere.github.io/item/sitemap
+Sitemap: https://selsivere.github.io/src/sitemap
